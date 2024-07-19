@@ -23,4 +23,6 @@ Este repositório contém um projeto simples de um simulador de caixa eletrônic
 ## Autores
 
 - Rosenilda Santos
+  - LinkedIn: https://www.linkedin.com/in/rosenildasantos/
 - Júlia Benjamin
+  - Instagram: https://www.instagram.com/_juliabenjamin/
